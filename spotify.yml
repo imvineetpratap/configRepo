@@ -1,4 +1,4 @@
-spring.application.name=Application2
+spring.application.name=spotify
 #spring.profiles.active=amazon
 server.port=9001
 
